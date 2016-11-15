@@ -8,5 +8,5 @@ Tree Struct:
 	4)Balance Binary Tree;
 	5)Red-Black Tree;
 	6)B Tree:
-		a)B+ Tree;
-		b)B* Tree;
+        a)B+ Tree;
+        b)B* Tree;
